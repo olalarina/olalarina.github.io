@@ -1,7 +1,21 @@
-.header{
-	max-width:5000px;
+body{
+	width: 100%;
+}
+div{
+	display: block;
+	
+}
+.menu{
+	width:100%;
 	hight: 500px;
 	float: right;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	padding: 0;
+	background: #000000;
+	margin-left: 0;
 	}
 ul{
 	list-style: none;
@@ -9,13 +23,14 @@ ul{
 	padding:0;
 	margin-top: 0;
 	hight: 100px;
-	max-width: 5000px;
+	width: 100%;
+	display: block;
 }
 .menu-link{
 	text-decoration: none;
 	background: #000000;
 	color: #FFFFFF;
-	padding:0px 25px;
+	padding:0px 50px;
 	font-family: gigi;
 	line-height: 70px;
 	display: block;
@@ -38,3 +53,6 @@ a{
 	font-size: 20px;
 	font-family: areal;
 }	
+img{
+	float: right;
+}
