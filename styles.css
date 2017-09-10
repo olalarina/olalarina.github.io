@@ -90,10 +90,15 @@ a{
 	float: left;
 	font-size: larger;
 			}
+.rightimg{
+	float: right;
+	margin: 7px 0 7px 80px;
+}			
 		p{
 			margin-top: 10px;
 			margin-left: 80px;
 			margin-right: 80px;
+			pedding-left: 50%;
 		}
 img{
 	float: right;
