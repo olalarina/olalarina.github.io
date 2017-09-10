@@ -1,5 +1,7 @@
 body{
 	width: 100%;
+	background-color: #D2CCC0;
+	font-family: Agency FB;
 }
 div{
 	display: block;
@@ -52,7 +54,47 @@ a{
 	color: #3394F6;
 	font-size: 20px;
 	font-family: areal;
+}
+#kont_header{
+	width: 100%;
+	float: middle;
+	font-family: gigi;
+	font-size: 45px;
+	font-weight: normal;
+	text-align: center;
+	color: #D3F500;
+	margin-bottom: 0;
 }	
+#kont_subheader{
+	width: 100%;
+	font-family: gigi;
+	font-size: 45px;
+	font-weight: normal;
+	text-align: center;
+	color: #FFFFFF;
+	margin-bottom: 0;
+}
+#kont_content_welcome{
+	width: 50%;
+	hight: 1500px;
+	background: #D3FA41;
+	float: left;
+	font-size: larger;
+}
+	h2{
+		margin-left: 80px;
+	}
+#kont_pers_pic{
+	width: 50%;
+	background: #FFFFFF;
+	float: left;
+	font-size: larger;
+			}
+		p{
+			margin-top: 10px;
+			margin-left: 80px;
+			margin-right: 80px;
+		}
 img{
 	float: right;
 }
